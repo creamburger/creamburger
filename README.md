@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @creamburger
+- 👋 Hi, I’m @creamburger 
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning JAVA
 - 📫 Contact: esccy@naver.com
 
 <!---
